@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alecksv_portfolio_react/static/css/main.064911c0.css",
+    "main.js": "/alecksv_portfolio_react/static/js/main.b0558ea7.js",
+    "index.html": "/alecksv_portfolio_react/index.html",
+    "main.064911c0.css.map": "/alecksv_portfolio_react/static/css/main.064911c0.css.map",
+    "main.b0558ea7.js.map": "/alecksv_portfolio_react/static/js/main.b0558ea7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.064911c0.css",
+    "static/js/main.b0558ea7.js"
+  ]
+}
