@@ -1,14 +1,24 @@
 {
   "files": {
     "main.css": "/alecksv_portfolio_react/static/css/main.c46b36f2.css",
-    "main.js": "/alecksv_portfolio_react/static/js/main.e9e21492.js",
+    "main.js": "/alecksv_portfolio_react/static/js/main.6bd9e093.js",
     "static/media/desktop2.png": "/alecksv_portfolio_react/static/media/desktop2.015f8b2956ac3958f86a.png",
+    "static/media/sky.png": "/alecksv_portfolio_react/static/media/sky.32ddaeff119cb88e829e.png",
+    "static/media/stones.png": "/alecksv_portfolio_react/static/media/stones.064ad6e33ddc834861d2.png",
+    "static/media/island.png": "/alecksv_portfolio_react/static/media/island.b9732f1f1175a67dff51.png",
+    "static/media/towers.png": "/alecksv_portfolio_react/static/media/towers.a8205e7e8b5a2bd73e74.png",
+    "static/media/town.png": "/alecksv_portfolio_react/static/media/town.e9d0cd706c83f1e75cb5.png",
+    "static/media/laptop.png": "/alecksv_portfolio_react/static/media/laptop.7aa3e80bab6cb82e04ea.png",
+    "static/media/river.png": "/alecksv_portfolio_react/static/media/river.fe48976382a840657209.png",
+    "static/media/foto.png": "/alecksv_portfolio_react/static/media/foto.1582dc19dd8edae8e84e.png",
+    "static/media/girl2.png": "/alecksv_portfolio_react/static/media/girl2.a6a9c1d8dc5648dfd4ee.png",
+    "static/media/girl.png": "/alecksv_portfolio_react/static/media/girl.12b602c47d782bc41c30.png",
     "index.html": "/alecksv_portfolio_react/index.html",
     "main.c46b36f2.css.map": "/alecksv_portfolio_react/static/css/main.c46b36f2.css.map",
-    "main.e9e21492.js.map": "/alecksv_portfolio_react/static/js/main.e9e21492.js.map"
+    "main.6bd9e093.js.map": "/alecksv_portfolio_react/static/js/main.6bd9e093.js.map"
   },
   "entrypoints": [
     "static/css/main.c46b36f2.css",
-    "static/js/main.e9e21492.js"
+    "static/js/main.6bd9e093.js"
   ]
 }
